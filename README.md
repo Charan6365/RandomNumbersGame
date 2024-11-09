@@ -1,6 +1,6 @@
 # RandomNumbersGame
 
-**Features:
+**About:
 
 1.Console Based.
 
