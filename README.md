@@ -1,10 +1,7 @@
-# codsoft_RandomNumbers_task1
-1. Generate a random number within a specified range, such as 1 to 100.
-2. Prompt the user to enter their guess for the generated number.
-3. Compare the user's guess with the generated number and provide feedback on whether the guess
-is correct, too high, or too low.
-4. Repeat steps 2 and 3 until the user guesses the correct number.
-You can incorporate additional details as follows:
-5. Limit the number of attempts the user has to guess the number.
-6. Add the option for multiple rounds, allowing the user to play again.
-7. Display the user's score, which can be based on the number of attempts taken or rounds won.
+# RandomNumbersGame
+**Features:
+1.Console Based.
+2.Made using java language.
+**Brief:
+This is a simple game user will have limited chances where user have to guess the number with in the given number of chances.
+#HaveFun
